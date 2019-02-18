@@ -88,6 +88,9 @@
     <Filter Include="TUHU\scenes\muScene">
       <UniqueIdentifier>{456ca61e-513a-4c99-8090-a09334cbd495}</UniqueIdentifier>
     </Filter>
+    <Filter Include="TUHU\scenes\buScene">
+      <UniqueIdentifier>{4ffec657-a48f-4d44-be8e-afe1e4411d2f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -225,6 +228,9 @@
     <ClInclude Include="test.h">
       <Filter>TUHU\objects</Filter>
     </ClInclude>
+    <ClInclude Include="buScene.h">
+      <Filter>TUHU\scenes\buScene</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -349,6 +355,9 @@
     </ClCompile>
     <ClCompile Include="test.cpp">
       <Filter>TUHU\objects</Filter>
+    </ClCompile>
+    <ClCompile Include="buScene.cpp">
+      <Filter>TUHU\scenes\buScene</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
