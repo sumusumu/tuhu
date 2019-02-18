@@ -85,6 +85,9 @@
     <Filter Include="TUHU\objects">
       <UniqueIdentifier>{00553a2e-2788-4a8b-a318-bf91a5b9c31d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="TUHU\scenes\muScene">
+      <UniqueIdentifier>{456ca61e-513a-4c99-8090-a09334cbd495}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
