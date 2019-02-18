@@ -1,18 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="소스 파일">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
-    <Filter Include="헤더 파일">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
-    </Filter>
-    <Filter Include="리소스 파일">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
     <Filter Include="2DGameFrameWork">
       <UniqueIdentifier>{1c6809fa-a182-415d-b335-789339d2b8f3}</UniqueIdentifier>
     </Filter>
@@ -67,16 +55,31 @@
     <Filter Include="mainGame\aStarTestScene">
       <UniqueIdentifier>{e38055fb-241b-4ba6-a2fe-44fbc3d8e8fc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="tuhu">
+      <UniqueIdentifier>{994f5136-a4f3-4537-b1bd-999ba2fb370b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
-      <Filter>헤더 파일</Filter>
+      <Filter>Headers</Filter>
     </ClInclude>
     <ClInclude Include="targetver.h">
-      <Filter>헤더 파일</Filter>
+      <Filter>Headers</Filter>
     </ClInclude>
     <ClInclude Include="commonMacroFunction.h">
-      <Filter>헤더 파일</Filter>
+      <Filter>Headers</Filter>
     </ClInclude>
     <ClInclude Include="singletonBase.h">
       <Filter>2DGameFrameWork\Manager</Filter>
@@ -88,10 +91,7 @@
       <Filter>2DGameFrameWork\Manager</Filter>
     </ClInclude>
     <ClInclude Include="randomFunction.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="mainGame.h">
-      <Filter>mainGame</Filter>
+      <Filter>Headers</Filter>
     </ClInclude>
     <ClInclude Include="utils.h">
       <Filter>2DGameFrameWork\UTIL</Filter>
@@ -201,19 +201,19 @@
     <ClInclude Include="tile.h">
       <Filter>mainGame\aStarTestScene</Filter>
     </ClInclude>
+    <ClInclude Include="mainGame.h">
+      <Filter>tuhu</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>Source files</Filter>
     </ClCompile>
     <ClCompile Include="winMain.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>Source files</Filter>
     </ClCompile>
     <ClCompile Include="gameNode.cpp">
       <Filter>2DGameFrameWork</Filter>
-    </ClCompile>
-    <ClCompile Include="mainGame.cpp">
-      <Filter>mainGame</Filter>
     </ClCompile>
     <ClCompile Include="keyManager.cpp">
       <Filter>2DGameFrameWork\Manager</Filter>
@@ -322,6 +322,9 @@
     </ClCompile>
     <ClCompile Include="tile.cpp">
       <Filter>mainGame\aStarTestScene</Filter>
+    </ClCompile>
+    <ClCompile Include="mainGame.cpp">
+      <Filter>tuhu</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
