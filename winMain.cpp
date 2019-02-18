@@ -1,6 +1,6 @@
 //헤더파일을 사용한다
 #include "stdafx.h"
-#include "mainGame.h"
+#include "main.h"
 
 //==============================================
 // - 2015. 06. 30 - ## 전역변수는 여기다 선언한다 ##
@@ -11,7 +11,7 @@ HWND _hWnd;
 //마우스 좌표
 POINT _ptMouse;
 
-mainGame _mg;
+main _mg;
 
 BOOL _leftButtonDown = FALSE;
 BOOL _rightButtonDown = FALSE;
@@ -102,7 +102,7 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpszCmd
 	//화면에 윈도우 보여준다
 	ShowWindow(_hWnd, cmdShow);
 
-	//mainGame 초기화
+	//main 초기화
 	if (FAILED(_mg.init()))
 	{
 		//메인게임이 초기화 실패하면 바로 종료시킴

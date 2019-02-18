@@ -21,9 +21,9 @@ HRESULT main::init(void)
 {
 	gameNode::init(true);
 
-	SCENEMANAGER->addScene("tankScene", new aStarTestScene);
+	SCENEMANAGER->addScene("testScene", new testScene);
 
-	SCENEMANAGER->changeScene("tankScene");
+	SCENEMANAGER->changeScene("testScene");
 
 	return S_OK;
 }
