@@ -1,0 +1,143 @@
+﻿  stdafx.cpp
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\image.h(126): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\image.h(127): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\image.h(130): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\image.h(131): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\image.h(136): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\image.h(137): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\image.h(143): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\image.h(150): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  aStarTest.cpp
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\astartest.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\astartest.cpp(121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\astartest.cpp(126): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\astartest.cpp(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\astartest.cpp(216): warning C4018: '<': signed/unsigned mismatch
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\astartest.cpp(234): warning C4018: '<': signed/unsigned mismatch
+  aStarTestScene.cpp
+  animation.cpp
+  battle.cpp
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\battle.cpp(61): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\battle.cpp(65): warning C4305: '-=': truncation from 'double' to 'float'
+  battle2.cpp
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\battle2.cpp(28): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\battle2.cpp(32): warning C4305: '-=': truncation from 'double' to 'float'
+  bullets.cpp
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\bullets.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\bullets.cpp(48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\bullets.cpp(65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\bullets.cpp(138): warning C4018: '<': signed/unsigned mismatch
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\bullets.cpp(149): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\bullets.cpp(164): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\bullets.cpp(255): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\bullets.cpp(270): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\bullets.cpp(290): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\bullets.cpp(348): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\bullets.cpp(361): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  button.cpp
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\button.cpp(24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\button.cpp(25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  database.cpp
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\database.cpp(63): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\database.cpp(69): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  effect.cpp
+  effectManager.cpp
+  gameNode.cpp
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\gamenode.cpp(103): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\gamenode.cpp(104): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  ghostsnGoblinsScene.cpp
+  image.cpp
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\image.cpp(251): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\image.cpp(252): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\image.cpp(318): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\image.cpp(319): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  imageManager.cpp
+  jump.cpp
+  keyAniManager.cpp
+  keyManager.cpp
+  knight.cpp
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\knight.cpp(29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\knight.cpp(171): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\knight.cpp(176): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\knight.cpp(181): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  loading.cpp
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\loading.cpp(174): warning C4018: '>=': signed/unsigned mismatch
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\loading.cpp(194): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\loading.cpp(211): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\loading.cpp(234): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\loading.cpp(234): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  loadingScene.cpp
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\loadingscene.cpp(25): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  Generating Code...
+  Compiling...
+  mainGame.cpp
+  mainGameScene.cpp
+  progressBar.cpp
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\progressbar.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\progressbar.cpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\progressbar.cpp(24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\progressbar.cpp(46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\progressbar.cpp(47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\progressbar.cpp(49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\progressbar.cpp(43): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\progressbar.cpp(44): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\progressbar.cpp(88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  sceneManager.cpp
+  selectScene.cpp
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\selectscene.cpp(57): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  ship.cpp
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\ship.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\ship.cpp(20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\ship.cpp(24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\ship.cpp(29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\ship.cpp(62): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\ship.cpp(80): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\ship.cpp(84): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\ship.cpp(107): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\ship.cpp(117): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\ship.cpp(121): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\ship.cpp(125): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  shipManager.cpp
+  soundManager.cpp
+  space.cpp
+  starcraftScene.cpp
+  tank.cpp
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\tank.cpp(89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\tank.cpp(97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\tank.cpp(105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\tank.cpp(113): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\tank.cpp(167): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\tank.cpp(172): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\tank.cpp(177): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\tank.cpp(182): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\tank.cpp(192): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\tank.cpp(205): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\tank.cpp(206): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  tankMap.cpp
+  tankScene.cpp
+  tile.cpp
+  timeManager.cpp
+  timer.cpp
+  txtData.cpp
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\txtdata.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\txtdata.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\txtdata.cpp(52): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\txtdata.cpp(87): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\txtdata.cpp(90): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\txtdata.cpp(83): warning C4101: 'temp': unreferenced local variable
+  utils.cpp
+  winMain.cpp
+  Generating Code...
+c:\users\summe\desktop\summer\compsci\sga\portfolio\astar\txtdata.cpp(56): warning C4172: returning address of local variable or temporary: str
+  20150630_0.vcxproj -> C:\Users\summe\Desktop\summer\compsci\SGA\Portfolio\ASTAR\Debug\20150630_0.exe

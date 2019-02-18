@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="2DGameFrameWork">
+      <UniqueIdentifier>{1c6809fa-a182-415d-b335-789339d2b8f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFrameWork\Manager">
+      <UniqueIdentifier>{31408ee8-00de-4740-811d-a6e4fdbcb71f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mainGame">
+      <UniqueIdentifier>{d69d1829-f2b0-49fe-ad7c-9337a46af845}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFrameWork\UTIL">
+      <UniqueIdentifier>{6db62d6e-83d9-406e-9efd-3001d71d8e3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFrameWork\image">
+      <UniqueIdentifier>{67d5ed0d-353a-42aa-b119-d332b3a34f5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mainGame\bullets">
+      <UniqueIdentifier>{02b42d3f-cc08-4078-9db3-28cf8c1e1035}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFrameWork\txtData">
+      <UniqueIdentifier>{3b61dcdb-a81e-4d48-a808-5227cbbff4b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFrameWork\progressBar">
+      <UniqueIdentifier>{4a6444ce-8248-484f-ab94-cd687ab5abe0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFrameWork\timer">
+      <UniqueIdentifier>{df29e5e8-0aa0-417d-8bd9-d01fd5d37625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFrameWork\animation">
+      <UniqueIdentifier>{51b68636-6ae0-49af-bf4a-892f8f7b08a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFrameWork\effect">
+      <UniqueIdentifier>{dfe7019d-ad5c-4270-a6b2-424ec730d761}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mainGame\starcraftScene">
+      <UniqueIdentifier>{94702d19-f93e-4802-867f-2e7374eb1547}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2DGameFrameWork\button">
+      <UniqueIdentifier>{dfb1b443-ab9e-453f-baa2-74716458daf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mainGame\database">
+      <UniqueIdentifier>{def84d4b-efb9-4a83-abc3-265d503ba466}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mainGame\loadingScene">
+      <UniqueIdentifier>{893ef351-d0d3-4ad5-9a32-b336a7737a55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mainGame\마계촌">
+      <UniqueIdentifier>{9b9b1596-8bf5-4624-9610-cdd234a65342}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mainGame\tankScene">
+      <UniqueIdentifier>{be47ff98-2e48-444b-bc06-228e1811a006}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mainGame\aStarTestScene">
+      <UniqueIdentifier>{e38055fb-241b-4ba6-a2fe-44fbc3d8e8fc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="commonMacroFunction.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="singletonBase.h">
+      <Filter>2DGameFrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="gameNode.h">
+      <Filter>2DGameFrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="keyManager.h">
+      <Filter>2DGameFrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="randomFunction.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="mainGame.h">
+      <Filter>mainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>2DGameFrameWork\UTIL</Filter>
+    </ClInclude>
+    <ClInclude Include="image.h">
+      <Filter>2DGameFrameWork\image</Filter>
+    </ClInclude>
+    <ClInclude Include="imageManager.h">
+      <Filter>2DGameFrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="bullets.h">
+      <Filter>mainGame\bullets</Filter>
+    </ClInclude>
+    <ClInclude Include="txtData.h">
+      <Filter>2DGameFrameWork\txtData</Filter>
+    </ClInclude>
+    <ClInclude Include="progressBar.h">
+      <Filter>2DGameFrameWork\progressBar</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>2DGameFrameWork\timer</Filter>
+    </ClInclude>
+    <ClInclude Include="timeManager.h">
+      <Filter>2DGameFrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="animation.h">
+      <Filter>2DGameFrameWork\animation</Filter>
+    </ClInclude>
+    <ClInclude Include="effect.h">
+      <Filter>2DGameFrameWork\effect</Filter>
+    </ClInclude>
+    <ClInclude Include="effectManager.h">
+      <Filter>2DGameFrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="soundManager.h">
+      <Filter>2DGameFrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="starcraftScene.h">
+      <Filter>mainGame\starcraftScene</Filter>
+    </ClInclude>
+    <ClInclude Include="ship.h">
+      <Filter>mainGame\starcraftScene</Filter>
+    </ClInclude>
+    <ClInclude Include="battle.h">
+      <Filter>mainGame\starcraftScene</Filter>
+    </ClInclude>
+    <ClInclude Include="selectScene.h">
+      <Filter>mainGame\starcraftScene</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneManager.h">
+      <Filter>2DGameFrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="button.h">
+      <Filter>2DGameFrameWork\button</Filter>
+    </ClInclude>
+    <ClInclude Include="database.h">
+      <Filter>mainGame\database</Filter>
+    </ClInclude>
+    <ClInclude Include="battle2.h">
+      <Filter>mainGame\starcraftScene</Filter>
+    </ClInclude>
+    <ClInclude Include="shipManager.h">
+      <Filter>mainGame\starcraftScene</Filter>
+    </ClInclude>
+    <ClInclude Include="space.h">
+      <Filter>mainGame\starcraftScene</Filter>
+    </ClInclude>
+    <ClInclude Include="loading.h">
+      <Filter>mainGame\loadingScene</Filter>
+    </ClInclude>
+    <ClInclude Include="loadingScene.h">
+      <Filter>mainGame\loadingScene</Filter>
+    </ClInclude>
+    <ClInclude Include="mainGameScene.h">
+      <Filter>mainGame\loadingScene</Filter>
+    </ClInclude>
+    <ClInclude Include="keyAniManager.h">
+      <Filter>2DGameFrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ghostsnGoblinsScene.h">
+      <Filter>mainGame\마계촌</Filter>
+    </ClInclude>
+    <ClInclude Include="knight.h">
+      <Filter>mainGame\마계촌</Filter>
+    </ClInclude>
+    <ClInclude Include="jump.h">
+      <Filter>mainGame\마계촌</Filter>
+    </ClInclude>
+    <ClInclude Include="tileNode.h">
+      <Filter>mainGame\tankScene</Filter>
+    </ClInclude>
+    <ClInclude Include="tankMap.h">
+      <Filter>mainGame\tankScene</Filter>
+    </ClInclude>
+    <ClInclude Include="tankScene.h">
+      <Filter>mainGame\tankScene</Filter>
+    </ClInclude>
+    <ClInclude Include="tank.h">
+      <Filter>mainGame\tankScene</Filter>
+    </ClInclude>
+    <ClInclude Include="aStarTestScene.h">
+      <Filter>mainGame\aStarTestScene</Filter>
+    </ClInclude>
+    <ClInclude Include="aStarTest.h">
+      <Filter>mainGame\aStarTestScene</Filter>
+    </ClInclude>
+    <ClInclude Include="tile.h">
+      <Filter>mainGame\aStarTestScene</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="winMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gameNode.cpp">
+      <Filter>2DGameFrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="mainGame.cpp">
+      <Filter>mainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="keyManager.cpp">
+      <Filter>2DGameFrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>2DGameFrameWork\UTIL</Filter>
+    </ClCompile>
+    <ClCompile Include="image.cpp">
+      <Filter>2DGameFrameWork\image</Filter>
+    </ClCompile>
+    <ClCompile Include="imageManager.cpp">
+      <Filter>2DGameFrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="bullets.cpp">
+      <Filter>mainGame\bullets</Filter>
+    </ClCompile>
+    <ClCompile Include="txtData.cpp">
+      <Filter>2DGameFrameWork\txtData</Filter>
+    </ClCompile>
+    <ClCompile Include="progressBar.cpp">
+      <Filter>2DGameFrameWork\progressBar</Filter>
+    </ClCompile>
+    <ClCompile Include="timer.cpp">
+      <Filter>2DGameFrameWork\timer</Filter>
+    </ClCompile>
+    <ClCompile Include="timeManager.cpp">
+      <Filter>2DGameFrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="animation.cpp">
+      <Filter>2DGameFrameWork\animation</Filter>
+    </ClCompile>
+    <ClCompile Include="effect.cpp">
+      <Filter>2DGameFrameWork\effect</Filter>
+    </ClCompile>
+    <ClCompile Include="effectManager.cpp">
+      <Filter>2DGameFrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="soundManager.cpp">
+      <Filter>2DGameFrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="starcraftScene.cpp">
+      <Filter>mainGame\starcraftScene</Filter>
+    </ClCompile>
+    <ClCompile Include="ship.cpp">
+      <Filter>mainGame\starcraftScene</Filter>
+    </ClCompile>
+    <ClCompile Include="battle.cpp">
+      <Filter>mainGame\starcraftScene</Filter>
+    </ClCompile>
+    <ClCompile Include="selectScene.cpp">
+      <Filter>mainGame\starcraftScene</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneManager.cpp">
+      <Filter>2DGameFrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="button.cpp">
+      <Filter>2DGameFrameWork\button</Filter>
+    </ClCompile>
+    <ClCompile Include="database.cpp">
+      <Filter>mainGame\database</Filter>
+    </ClCompile>
+    <ClCompile Include="battle2.cpp">
+      <Filter>mainGame\starcraftScene</Filter>
+    </ClCompile>
+    <ClCompile Include="shipManager.cpp">
+      <Filter>mainGame\starcraftScene</Filter>
+    </ClCompile>
+    <ClCompile Include="space.cpp">
+      <Filter>mainGame\starcraftScene</Filter>
+    </ClCompile>
+    <ClCompile Include="loading.cpp">
+      <Filter>mainGame\loadingScene</Filter>
+    </ClCompile>
+    <ClCompile Include="loadingScene.cpp">
+      <Filter>mainGame\loadingScene</Filter>
+    </ClCompile>
+    <ClCompile Include="mainGameScene.cpp">
+      <Filter>mainGame\loadingScene</Filter>
+    </ClCompile>
+    <ClCompile Include="keyAniManager.cpp">
+      <Filter>2DGameFrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="ghostsnGoblinsScene.cpp">
+      <Filter>mainGame\마계촌</Filter>
+    </ClCompile>
+    <ClCompile Include="knight.cpp">
+      <Filter>mainGame\마계촌</Filter>
+    </ClCompile>
+    <ClCompile Include="jump.cpp">
+      <Filter>mainGame\마계촌</Filter>
+    </ClCompile>
+    <ClCompile Include="tankMap.cpp">
+      <Filter>mainGame\tankScene</Filter>
+    </ClCompile>
+    <ClCompile Include="tankScene.cpp">
+      <Filter>mainGame\tankScene</Filter>
+    </ClCompile>
+    <ClCompile Include="tank.cpp">
+      <Filter>mainGame\tankScene</Filter>
+    </ClCompile>
+    <ClCompile Include="aStarTestScene.cpp">
+      <Filter>mainGame\aStarTestScene</Filter>
+    </ClCompile>
+    <ClCompile Include="aStarTest.cpp">
+      <Filter>mainGame\aStarTestScene</Filter>
+    </ClCompile>
+    <ClCompile Include="tile.cpp">
+      <Filter>mainGame\aStarTestScene</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
